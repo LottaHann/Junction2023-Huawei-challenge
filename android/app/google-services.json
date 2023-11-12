@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180597014723",
+    "project_id": "bifi-6f0a4",
+    "storage_bucket": "bifi-6f0a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180597014723:android:dd7b27f7b0772ca8d3e276",
+        "android_client_info": {
+          "package_name": "com.mycompany.bifi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFd5kA4FRaiDbzyqJLoUviJzfIl7Upl8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,6 @@
+package com.mycompany.bifi
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
